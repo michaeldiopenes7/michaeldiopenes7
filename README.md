@@ -118,21 +118,21 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/michael-john-diopenes-900680308/" target="_blank" style="outline: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="24" alt="linkedin logo" />
-  </a>
-  <a href="https://www.facebook.com/MichaelJohnnnnn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="32" height="24" alt="facebook logo" />
-  </a>
-  <a href="https://www.instagram.com/michael_92302/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="24" alt="instagram logo" />
-  </a>
-  <a href="https://dribbble.com/emjay23" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="32" height="24" alt="dribbble logo" />
-  </a>
-  <a href="https://www.behance.net/michaeldiopenes" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="32" height="24" alt="behance logo" />
-  </a>
+  <a href="https://www.linkedin.com/in/michael-john-diopenes-900680308/" target="_blank" style="outline: none; border: none;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="24" alt="linkedin logo" />
+</a>
+<a href="https://www.facebook.com/MichaelJohnnnnn" target="_blank" style="outline: none; border: none;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="32" height="24" alt="facebook logo" />
+</a>
+<a href="https://www.instagram.com/michael_92302/" target="_blank" style="outline: none; border: none;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="24" alt="instagram logo" />
+</a>
+<a href="https://dribbble.com/emjay23" target="_blank" style="outline: none; border: none;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="32" height="24" alt="dribbble logo" />
+</a>
+<a href="https://www.behance.net/michaeldiopenes" target="_blank" style="outline: none; border: none;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="32" height="24" alt="behance logo" />
+</a>
 </div>
 
 
