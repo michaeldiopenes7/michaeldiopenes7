@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔨 Currently working on my personal creative portfolio showcase<br>🔗 https:://michaeldiopenes7.github.io/portfolio--main/<br>🎓 Studied Bachelor of Science in Information Technology at La Consolacion College–Bacolod</p>
+<p align="left">🔨 Currently working on my personal creative portfolio showcase: [portfolio](https:://michaeldiopenes7.github.io/portfolio--main/)<br>🎓 Studied Bachelor of Science in Information Technology at La Consolacion College–Bacolod</p>
 
 ###
 
