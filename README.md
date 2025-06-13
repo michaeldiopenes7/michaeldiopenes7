@@ -10,8 +10,7 @@
 
 ###
 
-<div align="left">
-  <picture>
+<span align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -111,8 +110,7 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
-    </picture>
-</div>
+  </span>
 
 ###
 
