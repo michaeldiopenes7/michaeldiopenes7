@@ -151,7 +151,7 @@
   
 ###
 
-<h2 align="left">Trophies</h2>
+<h2 align="left" style="pointer-events: none;">Trophies</h2>
 
 ###
 
