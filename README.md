@@ -15,11 +15,11 @@
   <img width="12" />
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=react" height="24" alt="react logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=nextjs" height="24" alt="nextjs logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=nodejs" height="24" alt="nodejs logo" /></picture>
   <img width="12" />
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo" /></picture>
   <img width="12" />
