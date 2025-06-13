@@ -154,11 +154,17 @@
 <h2 align="left">Trophies</h2>
 
 ###
+
 <img src="https://github-profile-trophy.vercel.app?username=michaeldiopenes7&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
+###
+
+<h2 align="left">SnakeStack</h2>
+
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaeldiopenes7/michaeldiopenes7/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michaeldiopenes7/michaeldiopenes7/output/github-snake.svg" />
