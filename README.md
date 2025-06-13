@@ -148,3 +148,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/michaeldiopenes7/michaeldiopenes7/output/snake.svg" alt="Snake animation" />
+
+###
