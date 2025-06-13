@@ -164,7 +164,6 @@
 
 <h2 align="left">SnakeStack</h2>
 
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaeldiopenes7/michaeldiopenes7/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michaeldiopenes7/michaeldiopenes7/output/github-snake.svg" />
