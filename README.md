@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" style="pointer-events: none;"/>
   <img width="12" />
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /></picture>
   <img width="12" />
