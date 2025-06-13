@@ -13,7 +13,7 @@
 <div align="left">
   <picture><img src="https://skillicons.dev/icons?i=js" height="24" alt="javascript logo"/></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="typescript logo" /></picture>
   <img width="12" />
   <picture><img src="https://skillicons.dev/icons?i=react" height="24" alt="react logo" /></picture>
   <img width="12" />
