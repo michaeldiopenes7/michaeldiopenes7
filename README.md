@@ -149,6 +149,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/michaeldiopenes7/michaeldiopenes7/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/michaeldiopenes7/michaeldiopenes7/blob/output/github-contribution-grid-snake.gif)
 
 ###
