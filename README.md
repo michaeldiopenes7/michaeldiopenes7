@@ -71,8 +71,6 @@
   <img width="12" />
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" /></picture>
-  <img width="12" />
   <picture><img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" /></picture>
   <img width="12" />
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo" /></picture>
