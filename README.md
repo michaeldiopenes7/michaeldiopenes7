@@ -118,7 +118,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/michael-john-diopenes-900680308/" target="_blank">
+  <a href="https://www.linkedin.com/in/michael-john-diopenes-900680308/" target="_blank" style="outline: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="24" alt="linkedin logo" />
   </a>
   <a href="https://www.facebook.com/MichaelJohnnnnn" target="_blank">
