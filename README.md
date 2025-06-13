@@ -11,105 +11,105 @@
 ###
 
 <div align="left">
-  <picture><img src="https://skillicons.dev/icons?i=js" height="24" alt="javascript logo"/></picture>
+  <picture><img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"/></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="typescript logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=react" height="24" alt="react logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=nextjs" height="24" alt="nextjs logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=nodejs" height="24" alt="nodejs logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="30" alt="woocommerce logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo" /></picture>
+  <picture><img src="https://cdn.simpleicons.org/apache/D22128" height="30" alt="apache logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=heroku" height="30" alt="heroku logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="40" alt="sourcetree logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="30" alt="sourcetree logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo" /></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="30" alt="webflow logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" /></picture>
   <img width="12" />
-  <picture><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo" /></picture>
   <img width="12" />
-  <picture><img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo" /></picture>
+  <picture><img src="https://cdn.simpleicons.org/wordpress/21759B" height="30" alt="wordpress logo" /></picture>
 </div>
 
 
