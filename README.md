@@ -2,8 +2,6 @@
 
 ###
 
-<p align="left">🔨 Currently working on my personal creative portfolio showcase <a href="https://michaeldiopenes7.github.io/portfolio--main/" target="_blank">portfolio--main</a><br>🎓 Studied Bachelor of Science in Information Technology at La Consolacion College–Bacolod</p>
-
 ###
 
 <h2 align="left">Tech Stack</h2>
